@@ -8,6 +8,11 @@ banner:
     enable: true
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/hugoplate"
+    button:
+    enable: true
+    label: "GetFree"
+    link: "https://github.com/zeon-studio/hugoplate"
+    
 
 # Features
 features:
